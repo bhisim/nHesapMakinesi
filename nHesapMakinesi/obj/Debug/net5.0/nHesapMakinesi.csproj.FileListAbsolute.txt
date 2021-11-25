@@ -1,0 +1,16 @@
+D:\MCSD_30.10.2021\ODEVLER\4.Hafta\nHesapMakinesi\nHesapMakinesi\nHesapMakinesi\bin\Debug\net5.0\nHesapMakinesi.exe
+D:\MCSD_30.10.2021\ODEVLER\4.Hafta\nHesapMakinesi\nHesapMakinesi\nHesapMakinesi\bin\Debug\net5.0\nHesapMakinesi.deps.json
+D:\MCSD_30.10.2021\ODEVLER\4.Hafta\nHesapMakinesi\nHesapMakinesi\nHesapMakinesi\bin\Debug\net5.0\nHesapMakinesi.runtimeconfig.json
+D:\MCSD_30.10.2021\ODEVLER\4.Hafta\nHesapMakinesi\nHesapMakinesi\nHesapMakinesi\bin\Debug\net5.0\nHesapMakinesi.runtimeconfig.dev.json
+D:\MCSD_30.10.2021\ODEVLER\4.Hafta\nHesapMakinesi\nHesapMakinesi\nHesapMakinesi\bin\Debug\net5.0\nHesapMakinesi.dll
+D:\MCSD_30.10.2021\ODEVLER\4.Hafta\nHesapMakinesi\nHesapMakinesi\nHesapMakinesi\bin\Debug\net5.0\ref\nHesapMakinesi.dll
+D:\MCSD_30.10.2021\ODEVLER\4.Hafta\nHesapMakinesi\nHesapMakinesi\nHesapMakinesi\bin\Debug\net5.0\nHesapMakinesi.pdb
+D:\MCSD_30.10.2021\ODEVLER\4.Hafta\nHesapMakinesi\nHesapMakinesi\nHesapMakinesi\obj\Debug\net5.0\nHesapMakinesi.csproj.AssemblyReference.cache
+D:\MCSD_30.10.2021\ODEVLER\4.Hafta\nHesapMakinesi\nHesapMakinesi\nHesapMakinesi\obj\Debug\net5.0\nHesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCSD_30.10.2021\ODEVLER\4.Hafta\nHesapMakinesi\nHesapMakinesi\nHesapMakinesi\obj\Debug\net5.0\nHesapMakinesi.AssemblyInfoInputs.cache
+D:\MCSD_30.10.2021\ODEVLER\4.Hafta\nHesapMakinesi\nHesapMakinesi\nHesapMakinesi\obj\Debug\net5.0\nHesapMakinesi.AssemblyInfo.cs
+D:\MCSD_30.10.2021\ODEVLER\4.Hafta\nHesapMakinesi\nHesapMakinesi\nHesapMakinesi\obj\Debug\net5.0\nHesapMakinesi.csproj.CoreCompileInputs.cache
+D:\MCSD_30.10.2021\ODEVLER\4.Hafta\nHesapMakinesi\nHesapMakinesi\nHesapMakinesi\obj\Debug\net5.0\nHesapMakinesi.dll
+D:\MCSD_30.10.2021\ODEVLER\4.Hafta\nHesapMakinesi\nHesapMakinesi\nHesapMakinesi\obj\Debug\net5.0\ref\nHesapMakinesi.dll
+D:\MCSD_30.10.2021\ODEVLER\4.Hafta\nHesapMakinesi\nHesapMakinesi\nHesapMakinesi\obj\Debug\net5.0\nHesapMakinesi.pdb
+D:\MCSD_30.10.2021\ODEVLER\4.Hafta\nHesapMakinesi\nHesapMakinesi\nHesapMakinesi\obj\Debug\net5.0\nHesapMakinesi.genruntimeconfig.cache
